@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://personatravelwithmaria.github.io/Personatravelwithmaria/sitemap.xml
